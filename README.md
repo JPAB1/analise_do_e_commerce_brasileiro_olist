@@ -7,7 +7,7 @@ O objetivo é compreender padrões de compra, distribuição geográfica, tendê
 ---
 
 ## 📂 Estrutura do Projeto
-\\\
+\\
 ├── data
 │   ├── raw/                # Bases originais da Olist
 │   └── processed/          # Bases tratadas e consolidadas
@@ -15,7 +15,7 @@ O objetivo é compreender padrões de compra, distribuição geográfica, tendê
 ├── notebooks/              # Scripts e análises exploratórias
 ├── src/                    # Funções de limpeza e preparação
 └── README.md               # Documentação do projeto
-\\\
+\\
 # Instale as dependências:
 
 # bash
